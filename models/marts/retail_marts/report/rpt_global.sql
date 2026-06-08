@@ -22,7 +22,8 @@ final AS (
         g.outstanding_amount,
         g.refund_amount,
         g.due_days,
-        g.aging_bucket
+        g.aging_bucket,
+        current_timestamp() as updated_at
     FROM global_fact g
     LEFT JOIN customers c
         ON g.customer_id = c.customer_id

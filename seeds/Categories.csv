@@ -1,0 +1,16 @@
+CategoryID,CategoryName,Department,CategoryDescription,IsActive,CreatedDate
+1,Electronics,Technology,Electronics products,1,2024-01-01
+2,Clothing,Fashion,Clothing products,1,2024-01-01
+3,Footwear,Fashion,Footwear products,1,2024-01-01
+4,Beauty,Personal Care,Beauty products,1,2024-01-01
+5,Fitness,Sports,Fitness products,1,2024-01-01
+6,Kitchen,Home,Kitchen products,1,2024-01-01
+7,Home Appliances,Home,Home Appliances products,1,2024-01-01
+8,Gaming,Entertainment,Gaming products,1,2024-01-01
+9,Books,Education,Books products,1,2024-01-01
+10,Pets,Lifestyle,Pets products,1,2024-01-01
+11,Accessories,Fashion,Accessories products,1,2024-01-01
+12,Outdoor,Sports,Outdoor products,1,2024-01-01
+13,Furniture,Home,Furniture products,1,2024-01-01
+14,Grocery,Food,Grocery products,1,2024-01-01
+15,Toys,Kids,Toys products,1,2024-01-01

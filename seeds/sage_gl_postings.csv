@@ -1,0 +1,1001 @@
+posting_id,invoice_id,ledger_account,debit_amount,credit_amount,posting_status
+GL00001,INV00001,Sales Revenue,0,682,Posted
+GL00002,INV00002,Sales Revenue,0,2906,Posted
+GL00003,INV00003,Receivables,2481,0,Pending
+GL00004,INV00004,Sales Revenue,0,4617,Posted
+GL00005,INV00005,Sales Revenue,0,4920,Posted
+GL00006,INV00006,Sales Revenue,0,3534,Posted
+GL00007,INV00007,Sales Revenue,0,3731,Posted
+GL00008,INV00008,Refunds,4025,0,Failed
+GL00009,INV00009,Sales Revenue,0,1006,Posted
+GL00010,INV00010,Sales Revenue,0,1095,Posted
+GL00011,INV00011,Sales Revenue,0,4593,Posted
+GL00012,INV00012,Sales Revenue,0,1703,Posted
+GL00013,INV00013,Sales Revenue,0,817,Posted
+GL00014,INV00014,Receivables,614,0,Pending
+GL00015,INV00015,Refunds,964,0,Failed
+GL00016,INV00016,Sales Revenue,0,3529,Posted
+GL00017,INV00017,Sales Revenue,0,3485,Posted
+GL00018,INV00018,Sales Revenue,0,217,Posted
+GL00019,INV00019,Sales Revenue,0,2536,Posted
+GL00020,INV00020,Sales Revenue,0,4186,Posted
+GL00021,INV00021,Sales Revenue,0,1983,Posted
+GL00022,INV00022,Refunds,699,0,Failed
+GL00023,INV00023,Receivables,610,0,Pending
+GL00024,INV00024,Sales Revenue,0,4550,Posted
+GL00025,INV00025,Sales Revenue,0,856,Posted
+GL00026,INV00026,Receivables,756,0,Pending
+GL00027,INV00027,Receivables,1182,0,Pending
+GL00028,INV00028,Receivables,525,0,Pending
+GL00029,INV00029,Receivables,4981,0,Pending
+GL00030,INV00030,Sales Revenue,0,2336,Posted
+GL00031,INV00031,Sales Revenue,0,2155,Posted
+GL00032,INV00032,Sales Revenue,0,2657,Posted
+GL00033,INV00033,Sales Revenue,0,276,Posted
+GL00034,INV00034,Sales Revenue,0,1019,Posted
+GL00035,INV00035,Sales Revenue,0,4344,Posted
+GL00036,INV00036,Sales Revenue,0,763,Posted
+GL00037,INV00037,Sales Revenue,0,1492,Posted
+GL00038,INV00038,Receivables,2678,0,Pending
+GL00039,INV00039,Receivables,264,0,Pending
+GL00040,INV00040,Sales Revenue,0,1048,Posted
+GL00041,INV00041,Refunds,1076,0,Failed
+GL00042,INV00042,Sales Revenue,0,2431,Posted
+GL00043,INV00043,Sales Revenue,0,3008,Posted
+GL00044,INV00044,Sales Revenue,0,2362,Posted
+GL00045,INV00045,Sales Revenue,0,616,Posted
+GL00046,INV00046,Sales Revenue,0,2466,Posted
+GL00047,INV00047,Receivables,1271,0,Pending
+GL00048,INV00048,Receivables,3819,0,Pending
+GL00049,INV00049,Sales Revenue,0,4794,Posted
+GL00050,INV00050,Sales Revenue,0,1421,Posted
+GL00051,INV00051,Receivables,4971,0,Pending
+GL00052,INV00052,Sales Revenue,0,1244,Posted
+GL00053,INV00053,Sales Revenue,0,526,Posted
+GL00054,INV00054,Receivables,2244,0,Pending
+GL00055,INV00055,Sales Revenue,0,4786,Posted
+GL00056,INV00056,Sales Revenue,0,2139,Posted
+GL00057,INV00057,Sales Revenue,0,403,Posted
+GL00058,INV00058,Receivables,3572,0,Pending
+GL00059,INV00059,Sales Revenue,0,2385,Posted
+GL00060,INV00060,Sales Revenue,0,3333,Posted
+GL00061,INV00061,Sales Revenue,0,1834,Posted
+GL00062,INV00062,Sales Revenue,0,2064,Posted
+GL00063,INV00063,Sales Revenue,0,1782,Posted
+GL00064,INV00064,Refunds,768,0,Failed
+GL00065,INV00065,Sales Revenue,0,4373,Posted
+GL00066,INV00066,Sales Revenue,0,2912,Posted
+GL00067,INV00067,Receivables,1662,0,Pending
+GL00068,INV00068,Receivables,1088,0,Pending
+GL00069,INV00069,Sales Revenue,0,2769,Posted
+GL00070,INV00070,Sales Revenue,0,1147,Posted
+GL00071,INV00071,Sales Revenue,0,2286,Posted
+GL00072,INV00072,Sales Revenue,0,213,Posted
+GL00073,INV00073,Sales Revenue,0,1814,Posted
+GL00074,INV00074,Receivables,2904,0,Pending
+GL00075,INV00075,Refunds,1220,0,Failed
+GL00076,INV00076,Receivables,2733,0,Pending
+GL00077,INV00077,Receivables,3496,0,Pending
+GL00078,INV00078,Sales Revenue,0,1242,Posted
+GL00079,INV00079,Receivables,3305,0,Pending
+GL00080,INV00080,Sales Revenue,0,4862,Posted
+GL00081,INV00081,Sales Revenue,0,203,Posted
+GL00082,INV00082,Receivables,3721,0,Pending
+GL00083,INV00083,Sales Revenue,0,2839,Posted
+GL00084,INV00084,Sales Revenue,0,1950,Posted
+GL00085,INV00085,Sales Revenue,0,894,Posted
+GL00086,INV00086,Sales Revenue,0,2945,Posted
+GL00087,INV00087,Sales Revenue,0,2742,Posted
+GL00088,INV00088,Sales Revenue,0,400,Posted
+GL00089,INV00089,Sales Revenue,0,796,Posted
+GL00090,INV00090,Sales Revenue,0,4915,Posted
+GL00091,INV00091,Sales Revenue,0,3345,Posted
+GL00092,INV00092,Receivables,1408,0,Pending
+GL00093,INV00093,Refunds,1073,0,Failed
+GL00094,INV00094,Receivables,1640,0,Pending
+GL00095,INV00095,Receivables,611,0,Pending
+GL00096,INV00096,Sales Revenue,0,3939,Posted
+GL00097,INV00097,Receivables,4551,0,Pending
+GL00098,INV00098,Receivables,3825,0,Pending
+GL00099,INV00099,Receivables,3695,0,Pending
+GL00100,INV00100,Sales Revenue,0,4088,Posted
+GL00101,INV00101,Refunds,2471,0,Failed
+GL00102,INV00102,Receivables,4169,0,Pending
+GL00103,INV00103,Sales Revenue,0,3803,Posted
+GL00104,INV00104,Sales Revenue,0,2120,Posted
+GL00105,INV00105,Sales Revenue,0,4624,Posted
+GL00106,INV00106,Sales Revenue,0,2094,Posted
+GL00107,INV00107,Sales Revenue,0,1952,Posted
+GL00108,INV00108,Sales Revenue,0,2910,Posted
+GL00109,INV00109,Sales Revenue,0,710,Posted
+GL00110,INV00110,Receivables,4984,0,Pending
+GL00111,INV00111,Sales Revenue,0,3316,Posted
+GL00112,INV00112,Refunds,2646,0,Failed
+GL00113,INV00113,Refunds,4609,0,Failed
+GL00114,INV00114,Sales Revenue,0,2006,Posted
+GL00115,INV00115,Sales Revenue,0,3770,Posted
+GL00116,INV00116,Receivables,2953,0,Pending
+GL00117,INV00117,Sales Revenue,0,1552,Posted
+GL00118,INV00118,Sales Revenue,0,4575,Posted
+GL00119,INV00119,Receivables,4823,0,Pending
+GL00120,INV00120,Sales Revenue,0,3711,Posted
+GL00121,INV00121,Sales Revenue,0,611,Posted
+GL00122,INV00122,Sales Revenue,0,1933,Posted
+GL00123,INV00123,Sales Revenue,0,3305,Posted
+GL00124,INV00124,Sales Revenue,0,2266,Posted
+GL00125,INV00125,Sales Revenue,0,4618,Posted
+GL00126,INV00126,Refunds,762,0,Failed
+GL00127,INV00127,Sales Revenue,0,454,Posted
+GL00128,INV00128,Sales Revenue,0,1448,Posted
+GL00129,INV00129,Receivables,1137,0,Pending
+GL00130,INV00130,Refunds,2299,0,Failed
+GL00131,INV00131,Refunds,1138,0,Failed
+GL00132,INV00132,Receivables,1085,0,Pending
+GL00133,INV00133,Receivables,4916,0,Pending
+GL00134,INV00134,Sales Revenue,0,1824,Posted
+GL00135,INV00135,Sales Revenue,0,2189,Posted
+GL00136,INV00136,Receivables,1191,0,Pending
+GL00137,INV00137,Sales Revenue,0,4564,Posted
+GL00138,INV00138,Sales Revenue,0,764,Posted
+GL00139,INV00139,Sales Revenue,0,303,Posted
+GL00140,INV00140,Sales Revenue,0,3751,Posted
+GL00141,INV00141,Sales Revenue,0,1453,Posted
+GL00142,INV00142,Receivables,2412,0,Pending
+GL00143,INV00143,Sales Revenue,0,4008,Posted
+GL00144,INV00144,Sales Revenue,0,2398,Posted
+GL00145,INV00145,Sales Revenue,0,2484,Posted
+GL00146,INV00146,Receivables,4868,0,Pending
+GL00147,INV00147,Sales Revenue,0,2955,Posted
+GL00148,INV00148,Sales Revenue,0,1689,Posted
+GL00149,INV00149,Sales Revenue,0,2316,Posted
+GL00150,INV00150,Receivables,2463,0,Pending
+GL00151,INV00151,Sales Revenue,0,1765,Posted
+GL00152,INV00152,Receivables,4202,0,Pending
+GL00153,INV00153,Receivables,4100,0,Pending
+GL00154,INV00154,Sales Revenue,0,3871,Posted
+GL00155,INV00155,Sales Revenue,0,2015,Posted
+GL00156,INV00156,Receivables,2708,0,Pending
+GL00157,INV00157,Receivables,4076,0,Pending
+GL00158,INV00158,Refunds,3685,0,Failed
+GL00159,INV00159,Receivables,3082,0,Pending
+GL00160,INV00160,Sales Revenue,0,2711,Posted
+GL00161,INV00161,Sales Revenue,0,1777,Posted
+GL00162,INV00162,Sales Revenue,0,1716,Posted
+GL00163,INV00163,Refunds,2465,0,Failed
+GL00164,INV00164,Sales Revenue,0,2518,Posted
+GL00165,INV00165,Sales Revenue,0,2063,Posted
+GL00166,INV00166,Refunds,315,0,Failed
+GL00167,INV00167,Sales Revenue,0,2447,Posted
+GL00168,INV00168,Receivables,2593,0,Pending
+GL00169,INV00169,Sales Revenue,0,4221,Posted
+GL00170,INV00170,Sales Revenue,0,2529,Posted
+GL00171,INV00171,Sales Revenue,0,2991,Posted
+GL00172,INV00172,Sales Revenue,0,4113,Posted
+GL00173,INV00173,Sales Revenue,0,4228,Posted
+GL00174,INV00174,Sales Revenue,0,639,Posted
+GL00175,INV00175,Sales Revenue,0,2689,Posted
+GL00176,INV00176,Refunds,4771,0,Failed
+GL00177,INV00177,Refunds,2048,0,Failed
+GL00178,INV00178,Sales Revenue,0,3890,Posted
+GL00179,INV00179,Sales Revenue,0,3712,Posted
+GL00180,INV00180,Receivables,693,0,Pending
+GL00181,INV00181,Receivables,1902,0,Pending
+GL00182,INV00182,Sales Revenue,0,865,Posted
+GL00183,INV00183,Sales Revenue,0,4721,Posted
+GL00184,INV00184,Sales Revenue,0,3546,Posted
+GL00185,INV00185,Sales Revenue,0,4049,Posted
+GL00186,INV00186,Refunds,2560,0,Failed
+GL00187,INV00187,Sales Revenue,0,3919,Posted
+GL00188,INV00188,Receivables,2367,0,Pending
+GL00189,INV00189,Sales Revenue,0,1820,Posted
+GL00190,INV00190,Receivables,2041,0,Pending
+GL00191,INV00191,Sales Revenue,0,1365,Posted
+GL00192,INV00192,Receivables,2719,0,Pending
+GL00193,INV00193,Sales Revenue,0,2564,Posted
+GL00194,INV00194,Receivables,2691,0,Pending
+GL00195,INV00195,Sales Revenue,0,4299,Posted
+GL00196,INV00196,Receivables,858,0,Pending
+GL00197,INV00197,Receivables,2840,0,Pending
+GL00198,INV00198,Sales Revenue,0,948,Posted
+GL00199,INV00199,Refunds,369,0,Failed
+GL00200,INV00200,Sales Revenue,0,4920,Posted
+GL00201,INV00201,Sales Revenue,0,4054,Posted
+GL00202,INV00202,Sales Revenue,0,2478,Posted
+GL00203,INV00203,Sales Revenue,0,4228,Posted
+GL00204,INV00204,Sales Revenue,0,3545,Posted
+GL00205,INV00205,Sales Revenue,0,1056,Posted
+GL00206,INV00206,Sales Revenue,0,4258,Posted
+GL00207,INV00207,Sales Revenue,0,4706,Posted
+GL00208,INV00208,Sales Revenue,0,2776,Posted
+GL00209,INV00209,Sales Revenue,0,3511,Posted
+GL00210,INV00210,Sales Revenue,0,4644,Posted
+GL00211,INV00211,Sales Revenue,0,1736,Posted
+GL00212,INV00212,Receivables,4283,0,Pending
+GL00213,INV00213,Sales Revenue,0,1867,Posted
+GL00214,INV00214,Sales Revenue,0,2559,Posted
+GL00215,INV00215,Sales Revenue,0,1194,Posted
+GL00216,INV00216,Refunds,2160,0,Failed
+GL00217,INV00217,Sales Revenue,0,4712,Posted
+GL00218,INV00218,Sales Revenue,0,963,Posted
+GL00219,INV00219,Receivables,1162,0,Pending
+GL00220,INV00220,Sales Revenue,0,2590,Posted
+GL00221,INV00221,Sales Revenue,0,3603,Posted
+GL00222,INV00222,Receivables,3941,0,Pending
+GL00223,INV00223,Receivables,1761,0,Pending
+GL00224,INV00224,Sales Revenue,0,771,Posted
+GL00225,INV00225,Sales Revenue,0,2984,Posted
+GL00226,INV00226,Refunds,2517,0,Failed
+GL00227,INV00227,Receivables,4950,0,Pending
+GL00228,INV00228,Sales Revenue,0,3858,Posted
+GL00229,INV00229,Receivables,2923,0,Pending
+GL00230,INV00230,Sales Revenue,0,3290,Posted
+GL00231,INV00231,Receivables,2156,0,Pending
+GL00232,INV00232,Sales Revenue,0,3565,Posted
+GL00233,INV00233,Sales Revenue,0,3323,Posted
+GL00234,INV00234,Sales Revenue,0,1446,Posted
+GL00235,INV00235,Receivables,4314,0,Pending
+GL00236,INV00236,Sales Revenue,0,3806,Posted
+GL00237,INV00237,Refunds,325,0,Failed
+GL00238,INV00238,Sales Revenue,0,1464,Posted
+GL00239,INV00239,Receivables,2973,0,Pending
+GL00240,INV00240,Sales Revenue,0,857,Posted
+GL00241,INV00241,Sales Revenue,0,3313,Posted
+GL00242,INV00242,Sales Revenue,0,4632,Posted
+GL00243,INV00243,Receivables,2123,0,Pending
+GL00244,INV00244,Refunds,2063,0,Failed
+GL00245,INV00245,Refunds,1006,0,Failed
+GL00246,INV00246,Sales Revenue,0,1023,Posted
+GL00247,INV00247,Sales Revenue,0,2653,Posted
+GL00248,INV00248,Sales Revenue,0,659,Posted
+GL00249,INV00249,Sales Revenue,0,3728,Posted
+GL00250,INV00250,Receivables,3575,0,Pending
+GL00251,INV00251,Sales Revenue,0,1592,Posted
+GL00252,INV00252,Receivables,3333,0,Pending
+GL00253,INV00253,Receivables,4276,0,Pending
+GL00254,INV00254,Receivables,3977,0,Pending
+GL00255,INV00255,Receivables,2291,0,Pending
+GL00256,INV00256,Receivables,2556,0,Pending
+GL00257,INV00257,Sales Revenue,0,805,Posted
+GL00258,INV00258,Receivables,2650,0,Pending
+GL00259,INV00259,Sales Revenue,0,2248,Posted
+GL00260,INV00260,Sales Revenue,0,3351,Posted
+GL00261,INV00261,Receivables,3324,0,Pending
+GL00262,INV00262,Receivables,2623,0,Pending
+GL00263,INV00263,Sales Revenue,0,3442,Posted
+GL00264,INV00264,Receivables,601,0,Pending
+GL00265,INV00265,Refunds,2544,0,Failed
+GL00266,INV00266,Sales Revenue,0,3086,Posted
+GL00267,INV00267,Receivables,2253,0,Pending
+GL00268,INV00268,Receivables,1320,0,Pending
+GL00269,INV00269,Sales Revenue,0,522,Posted
+GL00270,INV00270,Sales Revenue,0,4947,Posted
+GL00271,INV00271,Sales Revenue,0,938,Posted
+GL00272,INV00272,Sales Revenue,0,1638,Posted
+GL00273,INV00273,Sales Revenue,0,3197,Posted
+GL00274,INV00274,Sales Revenue,0,1547,Posted
+GL00275,INV00275,Sales Revenue,0,2974,Posted
+GL00276,INV00276,Refunds,1353,0,Failed
+GL00277,INV00277,Receivables,3455,0,Pending
+GL00278,INV00278,Sales Revenue,0,3432,Posted
+GL00279,INV00279,Sales Revenue,0,1212,Posted
+GL00280,INV00280,Receivables,2347,0,Pending
+GL00281,INV00281,Sales Revenue,0,3243,Posted
+GL00282,INV00282,Sales Revenue,0,4062,Posted
+GL00283,INV00283,Receivables,2887,0,Pending
+GL00284,INV00284,Receivables,717,0,Pending
+GL00285,INV00285,Receivables,2675,0,Pending
+GL00286,INV00286,Sales Revenue,0,1345,Posted
+GL00287,INV00287,Sales Revenue,0,4235,Posted
+GL00288,INV00288,Sales Revenue,0,4603,Posted
+GL00289,INV00289,Receivables,3239,0,Pending
+GL00290,INV00290,Sales Revenue,0,4625,Posted
+GL00291,INV00291,Receivables,3598,0,Pending
+GL00292,INV00292,Sales Revenue,0,3543,Posted
+GL00293,INV00293,Sales Revenue,0,3235,Posted
+GL00294,INV00294,Sales Revenue,0,2134,Posted
+GL00295,INV00295,Sales Revenue,0,3209,Posted
+GL00296,INV00296,Sales Revenue,0,696,Posted
+GL00297,INV00297,Sales Revenue,0,1200,Posted
+GL00298,INV00298,Receivables,1937,0,Pending
+GL00299,INV00299,Sales Revenue,0,374,Posted
+GL00300,INV00300,Receivables,1231,0,Pending
+GL00301,INV00301,Sales Revenue,0,4740,Posted
+GL00302,INV00302,Sales Revenue,0,2108,Posted
+GL00303,INV00303,Sales Revenue,0,223,Posted
+GL00304,INV00304,Sales Revenue,0,4625,Posted
+GL00305,INV00305,Sales Revenue,0,411,Posted
+GL00306,INV00306,Receivables,2149,0,Pending
+GL00307,INV00307,Sales Revenue,0,1627,Posted
+GL00308,INV00308,Sales Revenue,0,3648,Posted
+GL00309,INV00309,Sales Revenue,0,4101,Posted
+GL00310,INV00310,Receivables,4404,0,Pending
+GL00311,INV00311,Sales Revenue,0,4327,Posted
+GL00312,INV00312,Sales Revenue,0,4471,Posted
+GL00313,INV00313,Sales Revenue,0,455,Posted
+GL00314,INV00314,Receivables,3692,0,Pending
+GL00315,INV00315,Sales Revenue,0,3833,Posted
+GL00316,INV00316,Sales Revenue,0,1415,Posted
+GL00317,INV00317,Receivables,4995,0,Pending
+GL00318,INV00318,Receivables,3320,0,Pending
+GL00319,INV00319,Sales Revenue,0,3916,Posted
+GL00320,INV00320,Receivables,1012,0,Pending
+GL00321,INV00321,Refunds,4716,0,Failed
+GL00322,INV00322,Sales Revenue,0,3899,Posted
+GL00323,INV00323,Sales Revenue,0,3915,Posted
+GL00324,INV00324,Sales Revenue,0,2760,Posted
+GL00325,INV00325,Sales Revenue,0,2288,Posted
+GL00326,INV00326,Sales Revenue,0,4085,Posted
+GL00327,INV00327,Sales Revenue,0,963,Posted
+GL00328,INV00328,Receivables,1265,0,Pending
+GL00329,INV00329,Receivables,4800,0,Pending
+GL00330,INV00330,Sales Revenue,0,1201,Posted
+GL00331,INV00331,Refunds,3664,0,Failed
+GL00332,INV00332,Sales Revenue,0,2759,Posted
+GL00333,INV00333,Sales Revenue,0,4356,Posted
+GL00334,INV00334,Sales Revenue,0,4150,Posted
+GL00335,INV00335,Sales Revenue,0,4756,Posted
+GL00336,INV00336,Sales Revenue,0,4903,Posted
+GL00337,INV00337,Sales Revenue,0,4760,Posted
+GL00338,INV00338,Sales Revenue,0,2390,Posted
+GL00339,INV00339,Sales Revenue,0,2731,Posted
+GL00340,INV00340,Sales Revenue,0,1686,Posted
+GL00341,INV00341,Sales Revenue,0,3483,Posted
+GL00342,INV00342,Sales Revenue,0,451,Posted
+GL00343,INV00343,Sales Revenue,0,1962,Posted
+GL00344,INV00344,Sales Revenue,0,2992,Posted
+GL00345,INV00345,Refunds,2857,0,Failed
+GL00346,INV00346,Sales Revenue,0,895,Posted
+GL00347,INV00347,Receivables,607,0,Pending
+GL00348,INV00348,Receivables,3829,0,Pending
+GL00349,INV00349,Sales Revenue,0,3821,Posted
+GL00350,INV00350,Sales Revenue,0,4397,Posted
+GL00351,INV00351,Sales Revenue,0,1108,Posted
+GL00352,INV00352,Sales Revenue,0,4186,Posted
+GL00353,INV00353,Sales Revenue,0,572,Posted
+GL00354,INV00354,Sales Revenue,0,648,Posted
+GL00355,INV00355,Refunds,1930,0,Failed
+GL00356,INV00356,Sales Revenue,0,2571,Posted
+GL00357,INV00357,Refunds,4274,0,Failed
+GL00358,INV00358,Sales Revenue,0,1258,Posted
+GL00359,INV00359,Sales Revenue,0,2085,Posted
+GL00360,INV00360,Sales Revenue,0,3101,Posted
+GL00361,INV00361,Sales Revenue,0,3773,Posted
+GL00362,INV00362,Receivables,2764,0,Pending
+GL00363,INV00363,Refunds,3513,0,Failed
+GL00364,INV00364,Sales Revenue,0,2571,Posted
+GL00365,INV00365,Sales Revenue,0,2860,Posted
+GL00366,INV00366,Sales Revenue,0,3164,Posted
+GL00367,INV00367,Sales Revenue,0,2193,Posted
+GL00368,INV00368,Sales Revenue,0,4492,Posted
+GL00369,INV00369,Sales Revenue,0,2981,Posted
+GL00370,INV00370,Sales Revenue,0,825,Posted
+GL00371,INV00371,Sales Revenue,0,4546,Posted
+GL00372,INV00372,Refunds,3076,0,Failed
+GL00373,INV00373,Sales Revenue,0,2135,Posted
+GL00374,INV00374,Sales Revenue,0,1816,Posted
+GL00375,INV00375,Sales Revenue,0,817,Posted
+GL00376,INV00376,Sales Revenue,0,4247,Posted
+GL00377,INV00377,Sales Revenue,0,4947,Posted
+GL00378,INV00378,Receivables,2847,0,Pending
+GL00379,INV00379,Sales Revenue,0,3802,Posted
+GL00380,INV00380,Sales Revenue,0,2680,Posted
+GL00381,INV00381,Sales Revenue,0,3083,Posted
+GL00382,INV00382,Sales Revenue,0,3982,Posted
+GL00383,INV00383,Sales Revenue,0,3220,Posted
+GL00384,INV00384,Receivables,939,0,Pending
+GL00385,INV00385,Sales Revenue,0,3349,Posted
+GL00386,INV00386,Sales Revenue,0,536,Posted
+GL00387,INV00387,Sales Revenue,0,1742,Posted
+GL00388,INV00388,Sales Revenue,0,4307,Posted
+GL00389,INV00389,Sales Revenue,0,1047,Posted
+GL00390,INV00390,Receivables,4333,0,Pending
+GL00391,INV00391,Refunds,2229,0,Failed
+GL00392,INV00392,Sales Revenue,0,4493,Posted
+GL00393,INV00393,Sales Revenue,0,3181,Posted
+GL00394,INV00394,Refunds,3548,0,Failed
+GL00395,INV00395,Receivables,628,0,Pending
+GL00396,INV00396,Sales Revenue,0,739,Posted
+GL00397,INV00397,Sales Revenue,0,3366,Posted
+GL00398,INV00398,Sales Revenue,0,1431,Posted
+GL00399,INV00399,Sales Revenue,0,1358,Posted
+GL00400,INV00400,Sales Revenue,0,3410,Posted
+GL00401,INV00401,Receivables,2736,0,Pending
+GL00402,INV00402,Sales Revenue,0,2890,Posted
+GL00403,INV00403,Sales Revenue,0,4512,Posted
+GL00404,INV00404,Sales Revenue,0,3668,Posted
+GL00405,INV00405,Sales Revenue,0,3170,Posted
+GL00406,INV00406,Refunds,2999,0,Failed
+GL00407,INV00407,Sales Revenue,0,2055,Posted
+GL00408,INV00408,Sales Revenue,0,2623,Posted
+GL00409,INV00409,Sales Revenue,0,4513,Posted
+GL00410,INV00410,Receivables,1273,0,Pending
+GL00411,INV00411,Sales Revenue,0,1529,Posted
+GL00412,INV00412,Refunds,1556,0,Failed
+GL00413,INV00413,Sales Revenue,0,3565,Posted
+GL00414,INV00414,Receivables,3838,0,Pending
+GL00415,INV00415,Sales Revenue,0,2116,Posted
+GL00416,INV00416,Sales Revenue,0,4042,Posted
+GL00417,INV00417,Sales Revenue,0,4872,Posted
+GL00418,INV00418,Sales Revenue,0,3328,Posted
+GL00419,INV00419,Sales Revenue,0,1527,Posted
+GL00420,INV00420,Sales Revenue,0,2248,Posted
+GL00421,INV00421,Receivables,3240,0,Pending
+GL00422,INV00422,Sales Revenue,0,1221,Posted
+GL00423,INV00423,Sales Revenue,0,2434,Posted
+GL00424,INV00424,Sales Revenue,0,3783,Posted
+GL00425,INV00425,Sales Revenue,0,3063,Posted
+GL00426,INV00426,Sales Revenue,0,3447,Posted
+GL00427,INV00427,Sales Revenue,0,3363,Posted
+GL00428,INV00428,Sales Revenue,0,430,Posted
+GL00429,INV00429,Sales Revenue,0,2946,Posted
+GL00430,INV00430,Sales Revenue,0,2550,Posted
+GL00431,INV00431,Sales Revenue,0,4042,Posted
+GL00432,INV00432,Sales Revenue,0,849,Posted
+GL00433,INV00433,Receivables,1424,0,Pending
+GL00434,INV00434,Sales Revenue,0,4523,Posted
+GL00435,INV00435,Sales Revenue,0,2146,Posted
+GL00436,INV00436,Sales Revenue,0,2153,Posted
+GL00437,INV00437,Sales Revenue,0,3944,Posted
+GL00438,INV00438,Sales Revenue,0,4591,Posted
+GL00439,INV00439,Sales Revenue,0,4910,Posted
+GL00440,INV00440,Sales Revenue,0,2586,Posted
+GL00441,INV00441,Sales Revenue,0,3090,Posted
+GL00442,INV00442,Receivables,1734,0,Pending
+GL00443,INV00443,Sales Revenue,0,4488,Posted
+GL00444,INV00444,Sales Revenue,0,4657,Posted
+GL00445,INV00445,Sales Revenue,0,366,Posted
+GL00446,INV00446,Sales Revenue,0,3369,Posted
+GL00447,INV00447,Sales Revenue,0,3125,Posted
+GL00448,INV00448,Refunds,1049,0,Failed
+GL00449,INV00449,Sales Revenue,0,1292,Posted
+GL00450,INV00450,Receivables,2973,0,Pending
+GL00451,INV00451,Receivables,4006,0,Pending
+GL00452,INV00452,Sales Revenue,0,1693,Posted
+GL00453,INV00453,Sales Revenue,0,502,Posted
+GL00454,INV00454,Sales Revenue,0,1834,Posted
+GL00455,INV00455,Sales Revenue,0,4422,Posted
+GL00456,INV00456,Sales Revenue,0,2275,Posted
+GL00457,INV00457,Sales Revenue,0,1765,Posted
+GL00458,INV00458,Sales Revenue,0,2919,Posted
+GL00459,INV00459,Sales Revenue,0,3779,Posted
+GL00460,INV00460,Sales Revenue,0,3367,Posted
+GL00461,INV00461,Sales Revenue,0,4275,Posted
+GL00462,INV00462,Refunds,876,0,Failed
+GL00463,INV00463,Receivables,3727,0,Pending
+GL00464,INV00464,Sales Revenue,0,2606,Posted
+GL00465,INV00465,Receivables,2886,0,Pending
+GL00466,INV00466,Receivables,3852,0,Pending
+GL00467,INV00467,Receivables,1565,0,Pending
+GL00468,INV00468,Sales Revenue,0,3862,Posted
+GL00469,INV00469,Sales Revenue,0,3763,Posted
+GL00470,INV00470,Receivables,814,0,Pending
+GL00471,INV00471,Sales Revenue,0,3176,Posted
+GL00472,INV00472,Sales Revenue,0,1510,Posted
+GL00473,INV00473,Sales Revenue,0,3789,Posted
+GL00474,INV00474,Refunds,2133,0,Failed
+GL00475,INV00475,Sales Revenue,0,3166,Posted
+GL00476,INV00476,Receivables,1456,0,Pending
+GL00477,INV00477,Sales Revenue,0,3247,Posted
+GL00478,INV00478,Sales Revenue,0,4901,Posted
+GL00479,INV00479,Sales Revenue,0,3460,Posted
+GL00480,INV00480,Sales Revenue,0,2244,Posted
+GL00481,INV00481,Sales Revenue,0,4288,Posted
+GL00482,INV00482,Sales Revenue,0,1164,Posted
+GL00483,INV00483,Sales Revenue,0,3855,Posted
+GL00484,INV00484,Sales Revenue,0,4223,Posted
+GL00485,INV00485,Sales Revenue,0,806,Posted
+GL00486,INV00486,Receivables,919,0,Pending
+GL00487,INV00487,Refunds,3046,0,Failed
+GL00488,INV00488,Sales Revenue,0,4641,Posted
+GL00489,INV00489,Sales Revenue,0,1626,Posted
+GL00490,INV00490,Sales Revenue,0,1194,Posted
+GL00491,INV00491,Sales Revenue,0,4247,Posted
+GL00492,INV00492,Sales Revenue,0,4888,Posted
+GL00493,INV00493,Receivables,1263,0,Pending
+GL00494,INV00494,Sales Revenue,0,2733,Posted
+GL00495,INV00495,Sales Revenue,0,4506,Posted
+GL00496,INV00496,Sales Revenue,0,4909,Posted
+GL00497,INV00497,Sales Revenue,0,807,Posted
+GL00498,INV00498,Sales Revenue,0,4438,Posted
+GL00499,INV00499,Refunds,1690,0,Failed
+GL00500,INV00500,Sales Revenue,0,4319,Posted
+GL00501,INV00501,Sales Revenue,0,1453,Posted
+GL00502,INV00502,Refunds,2843,0,Failed
+GL00503,INV00503,Sales Revenue,0,4450,Posted
+GL00504,INV00504,Receivables,1808,0,Pending
+GL00505,INV00505,Receivables,1225,0,Pending
+GL00506,INV00506,Sales Revenue,0,4570,Posted
+GL00507,INV00507,Receivables,1581,0,Pending
+GL00508,INV00508,Receivables,1602,0,Pending
+GL00509,INV00509,Receivables,2965,0,Pending
+GL00510,INV00510,Sales Revenue,0,865,Posted
+GL00511,INV00511,Receivables,2368,0,Pending
+GL00512,INV00512,Receivables,3612,0,Pending
+GL00513,INV00513,Receivables,4279,0,Pending
+GL00514,INV00514,Sales Revenue,0,2674,Posted
+GL00515,INV00515,Sales Revenue,0,3526,Posted
+GL00516,INV00516,Sales Revenue,0,690,Posted
+GL00517,INV00517,Sales Revenue,0,4166,Posted
+GL00518,INV00518,Sales Revenue,0,1376,Posted
+GL00519,INV00519,Sales Revenue,0,3029,Posted
+GL00520,INV00520,Receivables,4418,0,Pending
+GL00521,INV00521,Sales Revenue,0,2180,Posted
+GL00522,INV00522,Sales Revenue,0,3883,Posted
+GL00523,INV00523,Sales Revenue,0,614,Posted
+GL00524,INV00524,Sales Revenue,0,3625,Posted
+GL00525,INV00525,Refunds,4932,0,Failed
+GL00526,INV00526,Sales Revenue,0,1505,Posted
+GL00527,INV00527,Sales Revenue,0,4285,Posted
+GL00528,INV00528,Sales Revenue,0,937,Posted
+GL00529,INV00529,Sales Revenue,0,2172,Posted
+GL00530,INV00530,Sales Revenue,0,598,Posted
+GL00531,INV00531,Sales Revenue,0,4055,Posted
+GL00532,INV00532,Sales Revenue,0,1080,Posted
+GL00533,INV00533,Refunds,3196,0,Failed
+GL00534,INV00534,Sales Revenue,0,570,Posted
+GL00535,INV00535,Sales Revenue,0,4802,Posted
+GL00536,INV00536,Sales Revenue,0,2564,Posted
+GL00537,INV00537,Refunds,3889,0,Failed
+GL00538,INV00538,Sales Revenue,0,1173,Posted
+GL00539,INV00539,Sales Revenue,0,3257,Posted
+GL00540,INV00540,Sales Revenue,0,1381,Posted
+GL00541,INV00541,Sales Revenue,0,3488,Posted
+GL00542,INV00542,Sales Revenue,0,518,Posted
+GL00543,INV00543,Sales Revenue,0,4080,Posted
+GL00544,INV00544,Sales Revenue,0,4423,Posted
+GL00545,INV00545,Sales Revenue,0,2809,Posted
+GL00546,INV00546,Receivables,2651,0,Pending
+GL00547,INV00547,Sales Revenue,0,4375,Posted
+GL00548,INV00548,Sales Revenue,0,2655,Posted
+GL00549,INV00549,Receivables,2913,0,Pending
+GL00550,INV00550,Sales Revenue,0,4981,Posted
+GL00551,INV00551,Receivables,418,0,Pending
+GL00552,INV00552,Receivables,4938,0,Pending
+GL00553,INV00553,Sales Revenue,0,4980,Posted
+GL00554,INV00554,Sales Revenue,0,3314,Posted
+GL00555,INV00555,Receivables,458,0,Pending
+GL00556,INV00556,Sales Revenue,0,1762,Posted
+GL00557,INV00557,Sales Revenue,0,3630,Posted
+GL00558,INV00558,Sales Revenue,0,1870,Posted
+GL00559,INV00559,Refunds,4063,0,Failed
+GL00560,INV00560,Sales Revenue,0,1331,Posted
+GL00561,INV00561,Receivables,2862,0,Pending
+GL00562,INV00562,Sales Revenue,0,3286,Posted
+GL00563,INV00563,Sales Revenue,0,4567,Posted
+GL00564,INV00564,Receivables,2365,0,Pending
+GL00565,INV00565,Sales Revenue,0,2219,Posted
+GL00566,INV00566,Sales Revenue,0,2042,Posted
+GL00567,INV00567,Receivables,1898,0,Pending
+GL00568,INV00568,Sales Revenue,0,2797,Posted
+GL00569,INV00569,Sales Revenue,0,2440,Posted
+GL00570,INV00570,Sales Revenue,0,4649,Posted
+GL00571,INV00571,Sales Revenue,0,1399,Posted
+GL00572,INV00572,Sales Revenue,0,847,Posted
+GL00573,INV00573,Refunds,2300,0,Failed
+GL00574,INV00574,Sales Revenue,0,1855,Posted
+GL00575,INV00575,Sales Revenue,0,2425,Posted
+GL00576,INV00576,Sales Revenue,0,2160,Posted
+GL00577,INV00577,Sales Revenue,0,4550,Posted
+GL00578,INV00578,Sales Revenue,0,630,Posted
+GL00579,INV00579,Sales Revenue,0,4069,Posted
+GL00580,INV00580,Receivables,242,0,Pending
+GL00581,INV00581,Sales Revenue,0,4096,Posted
+GL00582,INV00582,Sales Revenue,0,2553,Posted
+GL00583,INV00583,Refunds,684,0,Failed
+GL00584,INV00584,Sales Revenue,0,4903,Posted
+GL00585,INV00585,Sales Revenue,0,1634,Posted
+GL00586,INV00586,Sales Revenue,0,3452,Posted
+GL00587,INV00587,Sales Revenue,0,506,Posted
+GL00588,INV00588,Sales Revenue,0,1079,Posted
+GL00589,INV00589,Sales Revenue,0,4650,Posted
+GL00590,INV00590,Sales Revenue,0,4330,Posted
+GL00591,INV00591,Sales Revenue,0,1122,Posted
+GL00592,INV00592,Refunds,2307,0,Failed
+GL00593,INV00593,Sales Revenue,0,2961,Posted
+GL00594,INV00594,Sales Revenue,0,1782,Posted
+GL00595,INV00595,Sales Revenue,0,3521,Posted
+GL00596,INV00596,Sales Revenue,0,910,Posted
+GL00597,INV00597,Sales Revenue,0,1713,Posted
+GL00598,INV00598,Sales Revenue,0,2232,Posted
+GL00599,INV00599,Sales Revenue,0,2129,Posted
+GL00600,INV00600,Sales Revenue,0,2900,Posted
+GL00601,INV00601,Sales Revenue,0,293,Posted
+GL00602,INV00602,Sales Revenue,0,2135,Posted
+GL00603,INV00603,Sales Revenue,0,4012,Posted
+GL00604,INV00604,Refunds,4316,0,Failed
+GL00605,INV00605,Receivables,1161,0,Pending
+GL00606,INV00606,Sales Revenue,0,2009,Posted
+GL00607,INV00607,Sales Revenue,0,1454,Posted
+GL00608,INV00608,Sales Revenue,0,3260,Posted
+GL00609,INV00609,Refunds,4057,0,Failed
+GL00610,INV00610,Refunds,1989,0,Failed
+GL00611,INV00611,Sales Revenue,0,870,Posted
+GL00612,INV00612,Sales Revenue,0,3163,Posted
+GL00613,INV00613,Receivables,705,0,Pending
+GL00614,INV00614,Sales Revenue,0,4891,Posted
+GL00615,INV00615,Sales Revenue,0,2887,Posted
+GL00616,INV00616,Refunds,1882,0,Failed
+GL00617,INV00617,Sales Revenue,0,944,Posted
+GL00618,INV00618,Sales Revenue,0,3914,Posted
+GL00619,INV00619,Receivables,3942,0,Pending
+GL00620,INV00620,Receivables,3987,0,Pending
+GL00621,INV00621,Sales Revenue,0,3443,Posted
+GL00622,INV00622,Sales Revenue,0,4937,Posted
+GL00623,INV00623,Receivables,3022,0,Pending
+GL00624,INV00624,Sales Revenue,0,693,Posted
+GL00625,INV00625,Sales Revenue,0,2551,Posted
+GL00626,INV00626,Sales Revenue,0,3643,Posted
+GL00627,INV00627,Sales Revenue,0,3292,Posted
+GL00628,INV00628,Sales Revenue,0,4617,Posted
+GL00629,INV00629,Sales Revenue,0,1171,Posted
+GL00630,INV00630,Sales Revenue,0,4532,Posted
+GL00631,INV00631,Refunds,228,0,Failed
+GL00632,INV00632,Receivables,3992,0,Pending
+GL00633,INV00633,Sales Revenue,0,3674,Posted
+GL00634,INV00634,Sales Revenue,0,2227,Posted
+GL00635,INV00635,Sales Revenue,0,2458,Posted
+GL00636,INV00636,Receivables,463,0,Pending
+GL00637,INV00637,Sales Revenue,0,328,Posted
+GL00638,INV00638,Receivables,1026,0,Pending
+GL00639,INV00639,Sales Revenue,0,598,Posted
+GL00640,INV00640,Sales Revenue,0,3495,Posted
+GL00641,INV00641,Refunds,1979,0,Failed
+GL00642,INV00642,Sales Revenue,0,1347,Posted
+GL00643,INV00643,Sales Revenue,0,4919,Posted
+GL00644,INV00644,Sales Revenue,0,2826,Posted
+GL00645,INV00645,Sales Revenue,0,4470,Posted
+GL00646,INV00646,Sales Revenue,0,2454,Posted
+GL00647,INV00647,Receivables,1634,0,Pending
+GL00648,INV00648,Sales Revenue,0,4753,Posted
+GL00649,INV00649,Sales Revenue,0,3322,Posted
+GL00650,INV00650,Sales Revenue,0,3610,Posted
+GL00651,INV00651,Sales Revenue,0,3283,Posted
+GL00652,INV00652,Sales Revenue,0,4079,Posted
+GL00653,INV00653,Sales Revenue,0,1382,Posted
+GL00654,INV00654,Sales Revenue,0,3580,Posted
+GL00655,INV00655,Sales Revenue,0,1298,Posted
+GL00656,INV00656,Sales Revenue,0,1865,Posted
+GL00657,INV00657,Sales Revenue,0,3884,Posted
+GL00658,INV00658,Sales Revenue,0,1760,Posted
+GL00659,INV00659,Sales Revenue,0,523,Posted
+GL00660,INV00660,Sales Revenue,0,4778,Posted
+GL00661,INV00661,Sales Revenue,0,2927,Posted
+GL00662,INV00662,Refunds,1756,0,Failed
+GL00663,INV00663,Receivables,2187,0,Pending
+GL00664,INV00664,Sales Revenue,0,1875,Posted
+GL00665,INV00665,Refunds,2834,0,Failed
+GL00666,INV00666,Sales Revenue,0,4019,Posted
+GL00667,INV00667,Sales Revenue,0,2726,Posted
+GL00668,INV00668,Sales Revenue,0,4273,Posted
+GL00669,INV00669,Sales Revenue,0,2823,Posted
+GL00670,INV00670,Sales Revenue,0,3590,Posted
+GL00671,INV00671,Sales Revenue,0,1395,Posted
+GL00672,INV00672,Receivables,4984,0,Pending
+GL00673,INV00673,Sales Revenue,0,2618,Posted
+GL00674,INV00674,Sales Revenue,0,2084,Posted
+GL00675,INV00675,Receivables,4290,0,Pending
+GL00676,INV00676,Sales Revenue,0,2965,Posted
+GL00677,INV00677,Sales Revenue,0,4218,Posted
+GL00678,INV00678,Sales Revenue,0,1586,Posted
+GL00679,INV00679,Sales Revenue,0,4200,Posted
+GL00680,INV00680,Sales Revenue,0,681,Posted
+GL00681,INV00681,Refunds,597,0,Failed
+GL00682,INV00682,Receivables,1326,0,Pending
+GL00683,INV00683,Sales Revenue,0,1437,Posted
+GL00684,INV00684,Sales Revenue,0,3935,Posted
+GL00685,INV00685,Receivables,4158,0,Pending
+GL00686,INV00686,Sales Revenue,0,254,Posted
+GL00687,INV00687,Sales Revenue,0,297,Posted
+GL00688,INV00688,Sales Revenue,0,4588,Posted
+GL00689,INV00689,Sales Revenue,0,3727,Posted
+GL00690,INV00690,Sales Revenue,0,4495,Posted
+GL00691,INV00691,Sales Revenue,0,4512,Posted
+GL00692,INV00692,Sales Revenue,0,3451,Posted
+GL00693,INV00693,Receivables,3960,0,Pending
+GL00694,INV00694,Sales Revenue,0,2050,Posted
+GL00695,INV00695,Sales Revenue,0,459,Posted
+GL00696,INV00696,Receivables,3289,0,Pending
+GL00697,INV00697,Receivables,277,0,Pending
+GL00698,INV00698,Sales Revenue,0,4294,Posted
+GL00699,INV00699,Sales Revenue,0,4835,Posted
+GL00700,INV00700,Sales Revenue,0,2082,Posted
+GL00701,INV00701,Sales Revenue,0,4095,Posted
+GL00702,INV00702,Sales Revenue,0,2496,Posted
+GL00703,INV00703,Sales Revenue,0,469,Posted
+GL00704,INV00704,Receivables,1897,0,Pending
+GL00705,INV00705,Sales Revenue,0,830,Posted
+GL00706,INV00706,Receivables,2169,0,Pending
+GL00707,INV00707,Sales Revenue,0,4628,Posted
+GL00708,INV00708,Sales Revenue,0,842,Posted
+GL00709,INV00709,Sales Revenue,0,639,Posted
+GL00710,INV00710,Sales Revenue,0,822,Posted
+GL00711,INV00711,Refunds,3449,0,Failed
+GL00712,INV00712,Sales Revenue,0,2439,Posted
+GL00713,INV00713,Receivables,3114,0,Pending
+GL00714,INV00714,Receivables,1721,0,Pending
+GL00715,INV00715,Sales Revenue,0,3313,Posted
+GL00716,INV00716,Sales Revenue,0,2619,Posted
+GL00717,INV00717,Sales Revenue,0,872,Posted
+GL00718,INV00718,Refunds,1463,0,Failed
+GL00719,INV00719,Sales Revenue,0,3154,Posted
+GL00720,INV00720,Sales Revenue,0,2725,Posted
+GL00721,INV00721,Sales Revenue,0,1037,Posted
+GL00722,INV00722,Sales Revenue,0,3730,Posted
+GL00723,INV00723,Sales Revenue,0,4397,Posted
+GL00724,INV00724,Sales Revenue,0,934,Posted
+GL00725,INV00725,Sales Revenue,0,2857,Posted
+GL00726,INV00726,Sales Revenue,0,3589,Posted
+GL00727,INV00727,Sales Revenue,0,4783,Posted
+GL00728,INV00728,Receivables,1589,0,Pending
+GL00729,INV00729,Sales Revenue,0,1337,Posted
+GL00730,INV00730,Sales Revenue,0,4239,Posted
+GL00731,INV00731,Sales Revenue,0,3760,Posted
+GL00732,INV00732,Sales Revenue,0,4166,Posted
+GL00733,INV00733,Refunds,2220,0,Failed
+GL00734,INV00734,Sales Revenue,0,1801,Posted
+GL00735,INV00735,Sales Revenue,0,2695,Posted
+GL00736,INV00736,Sales Revenue,0,3312,Posted
+GL00737,INV00737,Receivables,3727,0,Pending
+GL00738,INV00738,Sales Revenue,0,2661,Posted
+GL00739,INV00739,Sales Revenue,0,1845,Posted
+GL00740,INV00740,Sales Revenue,0,3462,Posted
+GL00741,INV00741,Receivables,4222,0,Pending
+GL00742,INV00742,Sales Revenue,0,3280,Posted
+GL00743,INV00743,Receivables,1132,0,Pending
+GL00744,INV00744,Sales Revenue,0,4669,Posted
+GL00745,INV00745,Refunds,420,0,Failed
+GL00746,INV00746,Sales Revenue,0,3791,Posted
+GL00747,INV00747,Receivables,3551,0,Pending
+GL00748,INV00748,Sales Revenue,0,2680,Posted
+GL00749,INV00749,Refunds,1462,0,Failed
+GL00750,INV00750,Sales Revenue,0,805,Posted
+GL00751,INV00751,Sales Revenue,0,4969,Posted
+GL00752,INV00752,Sales Revenue,0,3626,Posted
+GL00753,INV00753,Receivables,4598,0,Pending
+GL00754,INV00754,Refunds,1095,0,Failed
+GL00755,INV00755,Sales Revenue,0,3108,Posted
+GL00756,INV00756,Receivables,562,0,Pending
+GL00757,INV00757,Refunds,3473,0,Failed
+GL00758,INV00758,Sales Revenue,0,1067,Posted
+GL00759,INV00759,Sales Revenue,0,2018,Posted
+GL00760,INV00760,Receivables,4771,0,Pending
+GL00761,INV00761,Sales Revenue,0,2010,Posted
+GL00762,INV00762,Refunds,3993,0,Failed
+GL00763,INV00763,Sales Revenue,0,4299,Posted
+GL00764,INV00764,Sales Revenue,0,4154,Posted
+GL00765,INV00765,Sales Revenue,0,903,Posted
+GL00766,INV00766,Sales Revenue,0,3053,Posted
+GL00767,INV00767,Sales Revenue,0,1894,Posted
+GL00768,INV00768,Sales Revenue,0,4100,Posted
+GL00769,INV00769,Sales Revenue,0,3906,Posted
+GL00770,INV00770,Refunds,566,0,Failed
+GL00771,INV00771,Receivables,3010,0,Pending
+GL00772,INV00772,Refunds,1546,0,Failed
+GL00773,INV00773,Receivables,1629,0,Pending
+GL00774,INV00774,Sales Revenue,0,4786,Posted
+GL00775,INV00775,Receivables,3518,0,Pending
+GL00776,INV00776,Sales Revenue,0,3740,Posted
+GL00777,INV00777,Sales Revenue,0,1816,Posted
+GL00778,INV00778,Sales Revenue,0,3385,Posted
+GL00779,INV00779,Sales Revenue,0,1885,Posted
+GL00780,INV00780,Receivables,712,0,Pending
+GL00781,INV00781,Sales Revenue,0,1731,Posted
+GL00782,INV00782,Sales Revenue,0,3948,Posted
+GL00783,INV00783,Sales Revenue,0,4209,Posted
+GL00784,INV00784,Receivables,3383,0,Pending
+GL00785,INV00785,Sales Revenue,0,1135,Posted
+GL00786,INV00786,Receivables,1613,0,Pending
+GL00787,INV00787,Receivables,894,0,Pending
+GL00788,INV00788,Sales Revenue,0,1165,Posted
+GL00789,INV00789,Sales Revenue,0,1699,Posted
+GL00790,INV00790,Sales Revenue,0,4384,Posted
+GL00791,INV00791,Receivables,1329,0,Pending
+GL00792,INV00792,Sales Revenue,0,1721,Posted
+GL00793,INV00793,Receivables,1619,0,Pending
+GL00794,INV00794,Sales Revenue,0,2566,Posted
+GL00795,INV00795,Receivables,3894,0,Pending
+GL00796,INV00796,Sales Revenue,0,278,Posted
+GL00797,INV00797,Receivables,3345,0,Pending
+GL00798,INV00798,Sales Revenue,0,4254,Posted
+GL00799,INV00799,Refunds,3604,0,Failed
+GL00800,INV00800,Sales Revenue,0,1570,Posted
+GL00801,INV00801,Sales Revenue,0,2006,Posted
+GL00802,INV00802,Sales Revenue,0,2041,Posted
+GL00803,INV00803,Receivables,3946,0,Pending
+GL00804,INV00804,Sales Revenue,0,4703,Posted
+GL00805,INV00805,Sales Revenue,0,1135,Posted
+GL00806,INV00806,Sales Revenue,0,3205,Posted
+GL00807,INV00807,Sales Revenue,0,3815,Posted
+GL00808,INV00808,Refunds,1038,0,Failed
+GL00809,INV00809,Sales Revenue,0,2638,Posted
+GL00810,INV00810,Sales Revenue,0,3055,Posted
+GL00811,INV00811,Sales Revenue,0,2141,Posted
+GL00812,INV00812,Refunds,3072,0,Failed
+GL00813,INV00813,Sales Revenue,0,3707,Posted
+GL00814,INV00814,Sales Revenue,0,1892,Posted
+GL00815,INV00815,Sales Revenue,0,3073,Posted
+GL00816,INV00816,Sales Revenue,0,4613,Posted
+GL00817,INV00817,Sales Revenue,0,2597,Posted
+GL00818,INV00818,Receivables,4414,0,Pending
+GL00819,INV00819,Sales Revenue,0,3571,Posted
+GL00820,INV00820,Receivables,1239,0,Pending
+GL00821,INV00821,Refunds,1398,0,Failed
+GL00822,INV00822,Sales Revenue,0,3417,Posted
+GL00823,INV00823,Receivables,2401,0,Pending
+GL00824,INV00824,Sales Revenue,0,3902,Posted
+GL00825,INV00825,Sales Revenue,0,3500,Posted
+GL00826,INV00826,Sales Revenue,0,3223,Posted
+GL00827,INV00827,Sales Revenue,0,4967,Posted
+GL00828,INV00828,Receivables,3955,0,Pending
+GL00829,INV00829,Sales Revenue,0,3134,Posted
+GL00830,INV00830,Sales Revenue,0,1984,Posted
+GL00831,INV00831,Sales Revenue,0,2399,Posted
+GL00832,INV00832,Receivables,4683,0,Pending
+GL00833,INV00833,Sales Revenue,0,4175,Posted
+GL00834,INV00834,Sales Revenue,0,576,Posted
+GL00835,INV00835,Sales Revenue,0,333,Posted
+GL00836,INV00836,Sales Revenue,0,3939,Posted
+GL00837,INV00837,Receivables,1280,0,Pending
+GL00838,INV00838,Sales Revenue,0,2444,Posted
+GL00839,INV00839,Sales Revenue,0,2251,Posted
+GL00840,INV00840,Sales Revenue,0,1555,Posted
+GL00841,INV00841,Refunds,2702,0,Failed
+GL00842,INV00842,Receivables,3716,0,Pending
+GL00843,INV00843,Sales Revenue,0,979,Posted
+GL00844,INV00844,Sales Revenue,0,838,Posted
+GL00845,INV00845,Receivables,4455,0,Pending
+GL00846,INV00846,Receivables,266,0,Pending
+GL00847,INV00847,Receivables,3659,0,Pending
+GL00848,INV00848,Sales Revenue,0,780,Posted
+GL00849,INV00849,Sales Revenue,0,1039,Posted
+GL00850,INV00850,Sales Revenue,0,2651,Posted
+GL00851,INV00851,Sales Revenue,0,1370,Posted
+GL00852,INV00852,Receivables,269,0,Pending
+GL00853,INV00853,Sales Revenue,0,3805,Posted
+GL00854,INV00854,Sales Revenue,0,1440,Posted
+GL00855,INV00855,Sales Revenue,0,3824,Posted
+GL00856,INV00856,Refunds,1346,0,Failed
+GL00857,INV00857,Sales Revenue,0,3345,Posted
+GL00858,INV00858,Sales Revenue,0,1345,Posted
+GL00859,INV00859,Sales Revenue,0,890,Posted
+GL00860,INV00860,Refunds,2534,0,Failed
+GL00861,INV00861,Sales Revenue,0,2671,Posted
+GL00862,INV00862,Sales Revenue,0,4374,Posted
+GL00863,INV00863,Receivables,2621,0,Pending
+GL00864,INV00864,Sales Revenue,0,4254,Posted
+GL00865,INV00865,Receivables,4292,0,Pending
+GL00866,INV00866,Sales Revenue,0,4527,Posted
+GL00867,INV00867,Sales Revenue,0,1281,Posted
+GL00868,INV00868,Sales Revenue,0,3193,Posted
+GL00869,INV00869,Refunds,4058,0,Failed
+GL00870,INV00870,Sales Revenue,0,753,Posted
+GL00871,INV00871,Sales Revenue,0,526,Posted
+GL00872,INV00872,Receivables,2546,0,Pending
+GL00873,INV00873,Sales Revenue,0,3603,Posted
+GL00874,INV00874,Receivables,875,0,Pending
+GL00875,INV00875,Sales Revenue,0,1450,Posted
+GL00876,INV00876,Sales Revenue,0,847,Posted
+GL00877,INV00877,Sales Revenue,0,4594,Posted
+GL00878,INV00878,Sales Revenue,0,741,Posted
+GL00879,INV00879,Sales Revenue,0,2154,Posted
+GL00880,INV00880,Sales Revenue,0,3759,Posted
+GL00881,INV00881,Sales Revenue,0,650,Posted
+GL00882,INV00882,Sales Revenue,0,1638,Posted
+GL00883,INV00883,Sales Revenue,0,292,Posted
+GL00884,INV00884,Sales Revenue,0,4484,Posted
+GL00885,INV00885,Sales Revenue,0,1567,Posted
+GL00886,INV00886,Refunds,1167,0,Failed
+GL00887,INV00887,Sales Revenue,0,3717,Posted
+GL00888,INV00888,Refunds,2354,0,Failed
+GL00889,INV00889,Sales Revenue,0,831,Posted
+GL00890,INV00890,Sales Revenue,0,3150,Posted
+GL00891,INV00891,Sales Revenue,0,1567,Posted
+GL00892,INV00892,Receivables,1042,0,Pending
+GL00893,INV00893,Refunds,2071,0,Failed
+GL00894,INV00894,Sales Revenue,0,560,Posted
+GL00895,INV00895,Sales Revenue,0,4064,Posted
+GL00896,INV00896,Sales Revenue,0,1666,Posted
+GL00897,INV00897,Sales Revenue,0,3635,Posted
+GL00898,INV00898,Refunds,3609,0,Failed
+GL00899,INV00899,Receivables,838,0,Pending
+GL00900,INV00900,Receivables,4312,0,Pending
+GL00901,INV00901,Sales Revenue,0,2028,Posted
+GL00902,INV00902,Sales Revenue,0,764,Posted
+GL00903,INV00903,Sales Revenue,0,2881,Posted
+GL00904,INV00904,Sales Revenue,0,265,Posted
+GL00905,INV00905,Sales Revenue,0,4818,Posted
+GL00906,INV00906,Sales Revenue,0,2187,Posted
+GL00907,INV00907,Refunds,4241,0,Failed
+GL00908,INV00908,Refunds,4677,0,Failed
+GL00909,INV00909,Sales Revenue,0,252,Posted
+GL00910,INV00910,Sales Revenue,0,4636,Posted
+GL00911,INV00911,Sales Revenue,0,278,Posted
+GL00912,INV00912,Refunds,3282,0,Failed
+GL00913,INV00913,Sales Revenue,0,1051,Posted
+GL00914,INV00914,Sales Revenue,0,3639,Posted
+GL00915,INV00915,Sales Revenue,0,2492,Posted
+GL00916,INV00916,Sales Revenue,0,4457,Posted
+GL00917,INV00917,Refunds,3955,0,Failed
+GL00918,INV00918,Sales Revenue,0,982,Posted
+GL00919,INV00919,Sales Revenue,0,3430,Posted
+GL00920,INV00920,Sales Revenue,0,710,Posted
+GL00921,INV00921,Sales Revenue,0,2139,Posted
+GL00922,INV00922,Receivables,3419,0,Pending
+GL00923,INV00923,Sales Revenue,0,2805,Posted
+GL00924,INV00924,Sales Revenue,0,811,Posted
+GL00925,INV00925,Sales Revenue,0,1092,Posted
+GL00926,INV00926,Sales Revenue,0,3882,Posted
+GL00927,INV00927,Sales Revenue,0,1189,Posted
+GL00928,INV00928,Sales Revenue,0,3902,Posted
+GL00929,INV00929,Sales Revenue,0,1182,Posted
+GL00930,INV00930,Refunds,2692,0,Failed
+GL00931,INV00931,Sales Revenue,0,530,Posted
+GL00932,INV00932,Refunds,947,0,Failed
+GL00933,INV00933,Sales Revenue,0,3446,Posted
+GL00934,INV00934,Sales Revenue,0,2648,Posted
+GL00935,INV00935,Sales Revenue,0,3512,Posted
+GL00936,INV00936,Sales Revenue,0,2246,Posted
+GL00937,INV00937,Sales Revenue,0,1345,Posted
+GL00938,INV00938,Sales Revenue,0,2020,Posted
+GL00939,INV00939,Receivables,3249,0,Pending
+GL00940,INV00940,Receivables,888,0,Pending
+GL00941,INV00941,Sales Revenue,0,814,Posted
+GL00942,INV00942,Sales Revenue,0,3832,Posted
+GL00943,INV00943,Sales Revenue,0,1203,Posted
+GL00944,INV00944,Receivables,1576,0,Pending
+GL00945,INV00945,Sales Revenue,0,4264,Posted
+GL00946,INV00946,Sales Revenue,0,3695,Posted
+GL00947,INV00947,Sales Revenue,0,1733,Posted
+GL00948,INV00948,Sales Revenue,0,1417,Posted
+GL00949,INV00949,Receivables,2213,0,Pending
+GL00950,INV00950,Receivables,3575,0,Pending
+GL00951,INV00951,Sales Revenue,0,918,Posted
+GL00952,INV00952,Sales Revenue,0,3634,Posted
+GL00953,INV00953,Receivables,2241,0,Pending
+GL00954,INV00954,Refunds,3333,0,Failed
+GL00955,INV00955,Sales Revenue,0,4660,Posted
+GL00956,INV00956,Sales Revenue,0,4315,Posted
+GL00957,INV00957,Sales Revenue,0,1673,Posted
+GL00958,INV00958,Sales Revenue,0,1994,Posted
+GL00959,INV00959,Sales Revenue,0,679,Posted
+GL00960,INV00960,Sales Revenue,0,4984,Posted
+GL00961,INV00961,Receivables,2230,0,Pending
+GL00962,INV00962,Refunds,4571,0,Failed
+GL00963,INV00963,Sales Revenue,0,4916,Posted
+GL00964,INV00964,Sales Revenue,0,1642,Posted
+GL00965,INV00965,Receivables,3139,0,Pending
+GL00966,INV00966,Receivables,3080,0,Pending
+GL00967,INV00967,Sales Revenue,0,4812,Posted
+GL00968,INV00968,Sales Revenue,0,2731,Posted
+GL00969,INV00969,Sales Revenue,0,939,Posted
+GL00970,INV00970,Sales Revenue,0,1992,Posted
+GL00971,INV00971,Sales Revenue,0,205,Posted
+GL00972,INV00972,Sales Revenue,0,1268,Posted
+GL00973,INV00973,Sales Revenue,0,2850,Posted
+GL00974,INV00974,Refunds,1360,0,Failed
+GL00975,INV00975,Sales Revenue,0,3189,Posted
+GL00976,INV00976,Receivables,3440,0,Pending
+GL00977,INV00977,Sales Revenue,0,2672,Posted
+GL00978,INV00978,Receivables,3778,0,Pending
+GL00979,INV00979,Sales Revenue,0,2799,Posted
+GL00980,INV00980,Sales Revenue,0,3123,Posted
+GL00981,INV00981,Sales Revenue,0,1636,Posted
+GL00982,INV00982,Sales Revenue,0,2612,Posted
+GL00983,INV00983,Sales Revenue,0,4892,Posted
+GL00984,INV00984,Sales Revenue,0,465,Posted
+GL00985,INV00985,Receivables,2009,0,Pending
+GL00986,INV00986,Sales Revenue,0,4264,Posted
+GL00987,INV00987,Sales Revenue,0,2149,Posted
+GL00988,INV00988,Refunds,926,0,Failed
+GL00989,INV00989,Sales Revenue,0,2950,Posted
+GL00990,INV00990,Sales Revenue,0,1917,Posted
+GL00991,INV00991,Sales Revenue,0,3071,Posted
+GL00992,INV00992,Sales Revenue,0,594,Posted
+GL00993,INV00993,Sales Revenue,0,1562,Posted
+GL00994,INV00994,Sales Revenue,0,3077,Posted
+GL00995,INV00995,Receivables,4127,0,Pending
+GL00996,INV00996,Sales Revenue,0,2047,Posted
+GL00997,INV00997,Sales Revenue,0,473,Posted
+GL00998,INV00998,Sales Revenue,0,2339,Posted
+GL00999,INV00999,Sales Revenue,0,1593,Posted
+GL01000,INV01000,Sales Revenue,0,4681,Posted

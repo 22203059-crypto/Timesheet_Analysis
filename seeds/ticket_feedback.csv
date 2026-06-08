@@ -1,0 +1,57 @@
+feedback_id,ticket_id,customer_rating,feedback_text,feedback_date
+F00015,T00015,1,Support was helpful,2025-07-22
+F00017,T00017,4,Support was helpful,2025-03-13
+F00021,T00021,4,Delayed response,2025-01-15
+F00028,T00028,1,Excellent service,2025-08-26
+F00031,T00031,5,Problem still unresolved,2025-04-30
+F00034,T00034,3,Need better communication,2025-06-16
+F00039,T00039,3,Delayed response,2025-01-04
+F00040,T00040,3,Problem still unresolved,2025-08-31
+F00058,T00058,5,Problem still unresolved,2025-08-13
+F00061,T00061,4,Support was helpful,2025-04-28
+F00062,T00062,5,Support was helpful,2025-05-29
+F00063,T00063,2,Problem still unresolved,2025-09-04
+F00064,T00064,4,Issue resolved quickly,2025-02-21
+F00067,T00067,1,Delayed response,2025-04-14
+F00068,T00068,4,Need better communication,2025-09-13
+F00069,T00069,3,Delayed response,2025-05-07
+F00070,T00070,2,Issue resolved quickly,2025-01-30
+F00072,T00072,3,Support was helpful,2025-05-01
+F00076,T00076,2,Issue resolved quickly,2025-03-11
+F00077,T00077,2,Need better communication,2025-03-28
+F00081,T00081,5,Support was helpful,2025-05-26
+F00087,T00087,4,Need better communication,2025-03-09
+F00101,T00101,4,Delayed response,2025-08-17
+F00103,T00103,5,Problem still unresolved,2025-02-07
+F00108,T00108,3,Excellent service,2025-07-15
+F00112,T00112,2,Problem still unresolved,2025-03-17
+F00117,T00117,5,Problem still unresolved,2025-03-14
+F00119,T00119,4,Issue resolved quickly,2025-03-02
+F00120,T00120,5,Delayed response,2025-02-13
+F00121,T00121,3,Problem still unresolved,2025-03-02
+F00122,T00122,1,Support was helpful,2025-06-17
+F00125,T00125,1,Problem still unresolved,2025-03-09
+F00130,T00130,5,Delayed response,2025-04-23
+F00135,T00135,3,Support was helpful,2025-03-18
+F00136,T00136,1,Support was helpful,2025-03-28
+F00139,T00139,2,Need better communication,2025-03-28
+F00147,T00147,1,Issue resolved quickly,2025-05-11
+F00148,T00148,5,Delayed response,2025-04-22
+F00150,T00150,5,Excellent service,2025-06-16
+F00154,T00154,2,Excellent service,2025-08-05
+F00161,T00161,4,Problem still unresolved,2025-07-13
+F00162,T00162,5,Delayed response,2025-05-27
+F00165,T00165,4,Delayed response,2025-05-26
+F00167,T00167,2,Need better communication,2025-03-30
+F00169,T00169,4,Problem still unresolved,2025-06-01
+F00170,T00170,3,Need better communication,2025-02-18
+F00173,T00173,5,Excellent service,2025-01-07
+F00174,T00174,3,Issue resolved quickly,2025-05-22
+F00179,T00179,3,Need better communication,2025-07-29
+F00183,T00183,5,Problem still unresolved,2025-09-07
+F00184,T00184,1,Support was helpful,2025-08-31
+F00185,T00185,4,Excellent service,2025-04-29
+F00191,T00191,1,Need better communication,2025-06-28
+F00193,T00193,1,Delayed response,2025-06-12
+F00194,T00194,4,Need better communication,2025-05-13
+F00199,T00199,4,Delayed response,2025-08-04

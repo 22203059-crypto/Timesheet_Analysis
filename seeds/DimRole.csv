@@ -1,0 +1,6 @@
+RoleID,RoleName,HourlyRate,DailyRate
+R001,Intern,500,4000
+R002,Associate Software Engineer,1000,8000
+R003,Software Engineer,1500,12000
+R004,Senior Software Engineer,2000,16000
+R005,Lead Software Engineer,2500,20000

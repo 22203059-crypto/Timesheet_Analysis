@@ -1,0 +1,44 @@
+version: 2
+
+sources:
+  - name: raw
+    database: timesheet
+    schema: timesheet_report
+
+
+    tables:
+      - name: DimEmployee
+      - name: DimProject
+      - name: DimRole
+      - name: FactTimesheet
+      - name: Categories
+
+      - name: Customers
+
+      - name: OrderDetails
+
+      - name: Orders
+
+      - name: Products
+
+      - name: Regions
+
+      - name: sage_customers
+
+      - name: sage_gl_postings
+
+      - name: sage_invoices
+
+      - name: sage_transactions_retail
+
+      - name: support_agents
+
+      - name: support_tickets
+
+      - name: ticket_feedback
+
+      - name: Transactions
+
+
+
+

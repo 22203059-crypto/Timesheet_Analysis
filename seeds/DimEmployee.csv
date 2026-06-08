@@ -1,0 +1,11 @@
+EmployeeID,EmployeeName,Department,RoleID
+E101,John Smith,IT,R003
+E102,Sarah Lee,IT,R004
+E103,David Kumar,QA,R002
+E104,Priya Sharma,IT,R005
+E105,Raj Patel,Operations,R003
+E106,Anitha Raj,Data Engineering,R004
+E107,Kumaravel S,Data Analytics,R003
+E108,Rohit Singh,IT,R005
+E109,Meera Nair,HR,R002
+E110,Arjun Reddy,IT,R001

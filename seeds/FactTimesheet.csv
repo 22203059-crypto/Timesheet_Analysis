@@ -1,0 +1,251 @@
+TimesheetID,EmployeeID,ProjectID,Date,HoursWorked,BillableHours,NonBillableHours,TaskCategory,Status
+TS0001,E101,P004,2026-01-01,6,6,0,Architecture,Pending
+TS0002,E102,P003,2026-01-01,7,5,2,Documentation,Submitted
+TS0003,E103,P004,2026-01-01,6,4,2,ETL Development,Approved
+TS0004,E104,P004,2026-01-01,9,7,2,Documentation,Submitted
+TS0005,E105,P003,2026-01-01,10,8,2,ETL Development,Submitted
+TS0006,E106,P004,2026-01-01,7,6,1,Reporting,Submitted
+TS0007,E107,P001,2026-01-01,8,5,3,Support,Approved
+TS0008,E108,P005,2026-01-01,10,7,3,Training,Pending
+TS0009,E109,P005,2026-01-01,7,5,2,Training,Approved
+TS0010,E110,P005,2026-01-01,6,6,0,Analysis,Submitted
+TS0011,E101,P002,2026-01-02,8,7,1,Support,Approved
+TS0012,E102,P001,2026-01-02,9,9,0,Support,Approved
+TS0013,E103,P001,2026-01-02,7,7,0,Analysis,Submitted
+TS0014,E104,P003,2026-01-02,6,5,1,Development,Approved
+TS0015,E105,P005,2026-01-02,9,9,0,Analysis,Approved
+TS0016,E106,P005,2026-01-02,8,5,3,ETL Development,Approved
+TS0017,E107,P005,2026-01-02,6,4,2,Architecture,Submitted
+TS0018,E108,P003,2026-01-02,7,6,1,Reporting,Approved
+TS0019,E109,P001,2026-01-02,10,8,2,Support,Submitted
+TS0020,E110,P005,2026-01-02,7,7,0,Support,Approved
+TS0021,E101,P004,2026-01-03,9,7,2,Training,Submitted
+TS0022,E102,P003,2026-01-03,7,5,2,Development,Approved
+TS0023,E103,P002,2026-01-03,8,8,0,Analysis,Approved
+TS0024,E104,P004,2026-01-03,9,7,2,Testing,Approved
+TS0025,E105,P001,2026-01-03,7,4,3,ETL Development,Pending
+TS0026,E106,P004,2026-01-03,6,4,2,Training,Approved
+TS0027,E107,P002,2026-01-03,8,6,2,Documentation,Approved
+TS0028,E108,P005,2026-01-03,9,6,3,Architecture,Approved
+TS0029,E109,P004,2026-01-03,10,10,0,Architecture,Submitted
+TS0030,E110,P002,2026-01-03,9,8,1,ETL Development,Approved
+TS0031,E101,P004,2026-01-04,10,8,2,Development,Approved
+TS0032,E102,P002,2026-01-04,9,6,3,Analysis,Approved
+TS0033,E103,P005,2026-01-04,6,4,2,Documentation,Pending
+TS0034,E104,P004,2026-01-04,9,8,1,Documentation,Pending
+TS0035,E105,P001,2026-01-04,8,6,2,Development,Approved
+TS0036,E106,P003,2026-01-04,8,5,3,Development,Approved
+TS0037,E107,P002,2026-01-04,6,4,2,Development,Approved
+TS0038,E108,P001,2026-01-04,10,8,2,Training,Approved
+TS0039,E109,P004,2026-01-04,8,7,1,Development,Approved
+TS0040,E110,P004,2026-01-04,8,7,1,Analysis,Submitted
+TS0041,E101,P004,2026-01-05,7,4,3,Architecture,Submitted
+TS0042,E102,P003,2026-01-05,6,5,1,Support,Pending
+TS0043,E103,P003,2026-01-05,9,7,2,Training,Pending
+TS0044,E104,P005,2026-01-05,10,10,0,ETL Development,Approved
+TS0045,E105,P004,2026-01-05,6,6,0,ETL Development,Submitted
+TS0046,E106,P004,2026-01-05,7,5,2,Training,Approved
+TS0047,E107,P001,2026-01-05,9,9,0,Training,Approved
+TS0048,E108,P003,2026-01-05,6,5,1,Analysis,Approved
+TS0049,E109,P003,2026-01-05,6,5,1,ETL Development,Approved
+TS0050,E110,P001,2026-01-05,9,7,2,Reporting,Approved
+TS0051,E101,P005,2026-01-06,6,5,1,Support,Approved
+TS0052,E102,P001,2026-01-06,7,7,0,Support,Pending
+TS0053,E103,P003,2026-01-06,6,4,2,Architecture,Pending
+TS0054,E104,P003,2026-01-06,8,5,3,Support,Approved
+TS0055,E105,P004,2026-01-06,7,5,2,Support,Submitted
+TS0056,E106,P001,2026-01-06,7,6,1,Documentation,Approved
+TS0057,E107,P004,2026-01-06,10,7,3,Testing,Approved
+TS0058,E108,P003,2026-01-06,6,5,1,Documentation,Pending
+TS0059,E109,P005,2026-01-06,7,5,2,Support,Pending
+TS0060,E110,P005,2026-01-06,8,8,0,Support,Approved
+TS0061,E101,P003,2026-01-07,10,7,3,Testing,Submitted
+TS0062,E102,P005,2026-01-07,7,4,3,Support,Submitted
+TS0063,E103,P005,2026-01-07,8,7,1,Support,Approved
+TS0064,E104,P004,2026-01-07,6,5,1,ETL Development,Approved
+TS0065,E105,P001,2026-01-07,9,8,1,Reporting,Approved
+TS0066,E106,P003,2026-01-07,8,6,2,Testing,Approved
+TS0067,E107,P002,2026-01-07,9,7,2,Reporting,Submitted
+TS0068,E108,P003,2026-01-07,9,7,2,Analysis,Submitted
+TS0069,E109,P004,2026-01-07,8,5,3,Support,Approved
+TS0070,E110,P004,2026-01-07,8,6,2,Support,Approved
+TS0071,E101,P004,2026-01-08,8,7,1,Development,Approved
+TS0072,E102,P003,2026-01-08,6,4,2,Support,Submitted
+TS0073,E103,P001,2026-01-08,6,6,0,Analysis,Pending
+TS0074,E104,P005,2026-01-08,8,5,3,Support,Approved
+TS0075,E105,P005,2026-01-08,9,7,2,Analysis,Approved
+TS0076,E106,P004,2026-01-08,9,9,0,Support,Approved
+TS0077,E107,P005,2026-01-08,7,7,0,Architecture,Submitted
+TS0078,E108,P004,2026-01-08,6,6,0,Architecture,Approved
+TS0079,E109,P003,2026-01-08,8,5,3,Analysis,Submitted
+TS0080,E110,P003,2026-01-08,10,7,3,Architecture,Submitted
+TS0081,E101,P001,2026-01-09,7,7,0,Testing,Approved
+TS0082,E102,P004,2026-01-09,9,8,1,Analysis,Approved
+TS0083,E103,P005,2026-01-09,10,10,0,Support,Approved
+TS0084,E104,P001,2026-01-09,8,6,2,Reporting,Approved
+TS0085,E105,P001,2026-01-09,8,7,1,ETL Development,Approved
+TS0086,E106,P003,2026-01-09,9,7,2,Testing,Approved
+TS0087,E107,P004,2026-01-09,7,4,3,Development,Approved
+TS0088,E108,P004,2026-01-09,8,7,1,Testing,Approved
+TS0089,E109,P004,2026-01-09,6,6,0,Development,Approved
+TS0090,E110,P003,2026-01-09,10,8,2,Documentation,Submitted
+TS0091,E101,P001,2026-01-10,10,8,2,Training,Approved
+TS0092,E102,P003,2026-01-10,8,5,3,Training,Approved
+TS0093,E103,P001,2026-01-10,7,4,3,Training,Submitted
+TS0094,E104,P003,2026-01-10,8,8,0,ETL Development,Pending
+TS0095,E105,P002,2026-01-10,7,4,3,Architecture,Approved
+TS0096,E106,P004,2026-01-10,6,5,1,Reporting,Approved
+TS0097,E107,P005,2026-01-10,9,8,1,Documentation,Submitted
+TS0098,E108,P003,2026-01-10,10,7,3,Development,Approved
+TS0099,E109,P005,2026-01-10,10,10,0,Support,Approved
+TS0100,E110,P001,2026-01-10,8,6,2,ETL Development,Pending
+TS0101,E101,P003,2026-01-11,10,9,1,Architecture,Approved
+TS0102,E102,P004,2026-01-11,6,6,0,Reporting,Approved
+TS0103,E103,P003,2026-01-11,9,8,1,Architecture,Pending
+TS0104,E104,P001,2026-01-11,9,9,0,Reporting,Approved
+TS0105,E105,P002,2026-01-11,8,8,0,Architecture,Approved
+TS0106,E106,P005,2026-01-11,8,8,0,Analysis,Approved
+TS0107,E107,P002,2026-01-11,6,5,1,Support,Submitted
+TS0108,E108,P005,2026-01-11,10,8,2,Architecture,Approved
+TS0109,E109,P005,2026-01-11,8,5,3,Training,Submitted
+TS0110,E110,P001,2026-01-11,7,6,1,ETL Development,Approved
+TS0111,E101,P005,2026-01-12,10,10,0,Architecture,Pending
+TS0112,E102,P002,2026-01-12,7,4,3,ETL Development,Submitted
+TS0113,E103,P001,2026-01-12,9,7,2,Reporting,Approved
+TS0114,E104,P002,2026-01-12,7,7,0,ETL Development,Approved
+TS0115,E105,P002,2026-01-12,7,6,1,Support,Submitted
+TS0116,E106,P005,2026-01-12,6,4,2,Documentation,Approved
+TS0117,E107,P002,2026-01-12,7,6,1,Testing,Approved
+TS0118,E108,P001,2026-01-12,6,6,0,ETL Development,Pending
+TS0119,E109,P001,2026-01-12,10,10,0,Architecture,Approved
+TS0120,E110,P001,2026-01-12,9,8,1,Training,Approved
+TS0121,E101,P003,2026-01-13,7,7,0,Architecture,Submitted
+TS0122,E102,P003,2026-01-13,9,6,3,ETL Development,Submitted
+TS0123,E103,P005,2026-01-13,9,6,3,Support,Approved
+TS0124,E104,P005,2026-01-13,10,7,3,Training,Approved
+TS0125,E105,P004,2026-01-13,7,4,3,ETL Development,Approved
+TS0126,E106,P001,2026-01-13,10,8,2,ETL Development,Approved
+TS0127,E107,P001,2026-01-13,6,5,1,Development,Submitted
+TS0128,E108,P003,2026-01-13,6,4,2,Architecture,Approved
+TS0129,E109,P004,2026-01-13,9,9,0,ETL Development,Approved
+TS0130,E110,P001,2026-01-13,7,7,0,Training,Approved
+TS0131,E101,P004,2026-01-14,10,9,1,Architecture,Approved
+TS0132,E102,P005,2026-01-14,6,6,0,ETL Development,Approved
+TS0133,E103,P001,2026-01-14,9,8,1,Training,Submitted
+TS0134,E104,P004,2026-01-14,10,9,1,Analysis,Pending
+TS0135,E105,P002,2026-01-14,8,8,0,Reporting,Approved
+TS0136,E106,P001,2026-01-14,10,7,3,Architecture,Submitted
+TS0137,E107,P002,2026-01-14,9,9,0,Reporting,Approved
+TS0138,E108,P001,2026-01-14,7,6,1,Reporting,Submitted
+TS0139,E109,P001,2026-01-14,9,7,2,Training,Approved
+TS0140,E110,P005,2026-01-14,10,9,1,Analysis,Submitted
+TS0141,E101,P005,2026-01-15,10,7,3,Architecture,Approved
+TS0142,E102,P003,2026-01-15,7,6,1,Support,Approved
+TS0143,E103,P004,2026-01-15,6,4,2,Testing,Submitted
+TS0144,E104,P005,2026-01-15,6,4,2,Documentation,Submitted
+TS0145,E105,P002,2026-01-15,9,9,0,Development,Submitted
+TS0146,E106,P002,2026-01-15,7,4,3,Architecture,Pending
+TS0147,E107,P004,2026-01-15,8,5,3,Documentation,Pending
+TS0148,E108,P004,2026-01-15,9,8,1,ETL Development,Approved
+TS0149,E109,P004,2026-01-15,7,5,2,Training,Approved
+TS0150,E110,P005,2026-01-15,7,6,1,Architecture,Pending
+TS0151,E101,P004,2026-01-16,9,9,0,Documentation,Approved
+TS0152,E102,P005,2026-01-16,7,7,0,Documentation,Pending
+TS0153,E103,P005,2026-01-16,10,9,1,Training,Approved
+TS0154,E104,P005,2026-01-16,6,4,2,Reporting,Pending
+TS0155,E105,P003,2026-01-16,10,8,2,ETL Development,Approved
+TS0156,E106,P001,2026-01-16,9,9,0,ETL Development,Approved
+TS0157,E107,P001,2026-01-16,9,8,1,Reporting,Approved
+TS0158,E108,P001,2026-01-16,6,4,2,Support,Approved
+TS0159,E109,P004,2026-01-16,6,5,1,Reporting,Approved
+TS0160,E110,P002,2026-01-16,10,7,3,Testing,Submitted
+TS0161,E101,P003,2026-01-17,9,7,2,ETL Development,Approved
+TS0162,E102,P004,2026-01-17,8,8,0,Analysis,Approved
+TS0163,E103,P004,2026-01-17,7,6,1,Training,Approved
+TS0164,E104,P003,2026-01-17,6,4,2,Support,Pending
+TS0165,E105,P004,2026-01-17,6,6,0,Architecture,Submitted
+TS0166,E106,P004,2026-01-17,8,8,0,Support,Approved
+TS0167,E107,P002,2026-01-17,10,7,3,Training,Approved
+TS0168,E108,P004,2026-01-17,10,8,2,Architecture,Approved
+TS0169,E109,P002,2026-01-17,6,5,1,Support,Submitted
+TS0170,E110,P004,2026-01-17,8,8,0,Training,Submitted
+TS0171,E101,P003,2026-01-18,9,7,2,Support,Approved
+TS0172,E102,P004,2026-01-18,9,7,2,Architecture,Approved
+TS0173,E103,P003,2026-01-18,6,5,1,Testing,Approved
+TS0174,E104,P005,2026-01-18,6,5,1,Testing,Approved
+TS0175,E105,P002,2026-01-18,8,7,1,Documentation,Submitted
+TS0176,E106,P003,2026-01-18,10,7,3,Training,Approved
+TS0177,E107,P001,2026-01-18,9,9,0,Development,Approved
+TS0178,E108,P003,2026-01-18,8,6,2,Architecture,Approved
+TS0179,E109,P003,2026-01-18,8,7,1,ETL Development,Approved
+TS0180,E110,P003,2026-01-18,9,8,1,Documentation,Approved
+TS0181,E101,P005,2026-01-19,7,7,0,Documentation,Approved
+TS0182,E102,P001,2026-01-19,9,6,3,Development,Pending
+TS0183,E103,P002,2026-01-19,6,4,2,Architecture,Approved
+TS0184,E104,P002,2026-01-19,6,5,1,Reporting,Approved
+TS0185,E105,P004,2026-01-19,7,7,0,Architecture,Approved
+TS0186,E106,P002,2026-01-19,7,6,1,Development,Approved
+TS0187,E107,P001,2026-01-19,7,4,3,Testing,Pending
+TS0188,E108,P001,2026-01-19,10,10,0,Support,Submitted
+TS0189,E109,P001,2026-01-19,6,4,2,Analysis,Approved
+TS0190,E110,P001,2026-01-19,7,4,3,Support,Submitted
+TS0191,E101,P003,2026-01-20,7,5,2,ETL Development,Approved
+TS0192,E102,P005,2026-01-20,10,8,2,Analysis,Approved
+TS0193,E103,P004,2026-01-20,9,9,0,Testing,Submitted
+TS0194,E104,P003,2026-01-20,6,4,2,Development,Pending
+TS0195,E105,P005,2026-01-20,7,5,2,Analysis,Submitted
+TS0196,E106,P003,2026-01-20,6,4,2,Reporting,Approved
+TS0197,E107,P003,2026-01-20,6,6,0,Development,Approved
+TS0198,E108,P002,2026-01-20,7,5,2,Training,Approved
+TS0199,E109,P003,2026-01-20,10,7,3,Documentation,Approved
+TS0200,E110,P003,2026-01-20,8,7,1,Reporting,Submitted
+TS0201,E101,P004,2026-01-21,6,4,2,Reporting,Submitted
+TS0202,E102,P005,2026-01-21,6,4,2,Documentation,Approved
+TS0203,E103,P003,2026-01-21,9,7,2,Documentation,Approved
+TS0204,E104,P004,2026-01-21,10,8,2,Architecture,Pending
+TS0205,E105,P003,2026-01-21,9,6,3,Reporting,Approved
+TS0206,E106,P002,2026-01-21,10,10,0,Architecture,Approved
+TS0207,E107,P001,2026-01-21,8,7,1,Reporting,Approved
+TS0208,E108,P004,2026-01-21,7,4,3,Reporting,Approved
+TS0209,E109,P001,2026-01-21,7,7,0,Support,Approved
+TS0210,E110,P001,2026-01-21,6,6,0,ETL Development,Approved
+TS0211,E101,P002,2026-01-22,8,5,3,Documentation,Submitted
+TS0212,E102,P002,2026-01-22,6,6,0,Development,Submitted
+TS0213,E103,P005,2026-01-22,7,6,1,Architecture,Approved
+TS0214,E104,P002,2026-01-22,6,5,1,Testing,Submitted
+TS0215,E105,P001,2026-01-22,9,8,1,Support,Approved
+TS0216,E106,P004,2026-01-22,10,10,0,Reporting,Approved
+TS0217,E107,P002,2026-01-22,8,8,0,Development,Pending
+TS0218,E108,P005,2026-01-22,9,8,1,Training,Submitted
+TS0219,E109,P003,2026-01-22,10,10,0,ETL Development,Submitted
+TS0220,E110,P004,2026-01-22,7,4,3,ETL Development,Approved
+TS0221,E101,P004,2026-01-23,9,8,1,Analysis,Approved
+TS0222,E102,P005,2026-01-23,8,6,2,Training,Submitted
+TS0223,E103,P001,2026-01-23,7,7,0,Analysis,Approved
+TS0224,E104,P004,2026-01-23,9,6,3,Documentation,Approved
+TS0225,E105,P001,2026-01-23,6,4,2,Training,Approved
+TS0226,E106,P003,2026-01-23,7,5,2,Development,Approved
+TS0227,E107,P003,2026-01-23,8,7,1,Support,Approved
+TS0228,E108,P001,2026-01-23,9,6,3,Architecture,Submitted
+TS0229,E109,P001,2026-01-23,6,6,0,Support,Pending
+TS0230,E110,P001,2026-01-23,8,5,3,Testing,Approved
+TS0231,E101,P002,2026-01-24,8,7,1,Architecture,Approved
+TS0232,E102,P001,2026-01-24,8,8,0,Training,Approved
+TS0233,E103,P005,2026-01-24,9,6,3,Support,Approved
+TS0234,E104,P005,2026-01-24,7,7,0,Training,Approved
+TS0235,E105,P001,2026-01-24,9,9,0,Training,Approved
+TS0236,E106,P002,2026-01-24,6,5,1,Analysis,Pending
+TS0237,E107,P003,2026-01-24,7,4,3,Development,Pending
+TS0238,E108,P005,2026-01-24,10,10,0,Support,Submitted
+TS0239,E109,P004,2026-01-24,6,4,2,Development,Approved
+TS0240,E110,P005,2026-01-24,8,8,0,Support,Submitted
+TS0241,E101,P003,2026-01-25,10,10,0,Development,Pending
+TS0242,E102,P003,2026-01-25,7,7,0,Reporting,Pending
+TS0243,E103,P001,2026-01-25,10,9,1,Analysis,Approved
+TS0244,E104,P005,2026-01-25,8,8,0,Reporting,Approved
+TS0245,E105,P002,2026-01-25,9,7,2,Testing,Approved
+TS0246,E106,P004,2026-01-25,9,8,1,Analysis,Approved
+TS0247,E107,P003,2026-01-25,9,6,3,Architecture,Approved
+TS0248,E108,P003,2026-01-25,8,5,3,Reporting,Approved
+TS0249,E109,P003,2026-01-25,10,7,3,Development,Approved
+TS0250,E110,P002,2026-01-25,9,6,3,Reporting,Approved

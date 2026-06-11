@@ -19,7 +19,7 @@ navone AS(
 base AS(
     SELECT
         c.customer_id,
-        coalesce(n.customer_name,'no_name'),
+        coalesce(n.customer_name,'no_name') as customer_name,
         c.country,
         c.customer_segment,
         f.invoice_id,

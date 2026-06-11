@@ -49,7 +49,8 @@ final AS (
         t.expected_amount,
         t.received_amount,
         t.outstanding_amount,
-        t.refund_amount
+        t.refund_amount,
+        current_timestamp() as updated_at
     FROM orders o
     LEFT JOIN customers c
     ON o.customer_id = c.customer_id

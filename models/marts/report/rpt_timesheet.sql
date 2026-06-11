@@ -12,6 +12,7 @@ timesheet AS(
 ),
 base AS(
     SELECT 
+    'tagetik' as source_system,
         t.timesheet_id,
         t.employee_id,
         t.employee_name,
@@ -31,7 +32,7 @@ base AS(
         p.resource_count,
         p.total_cost AS project_total_cost,
         t.status,
-        current_timestamp() AS update_at
+        current_timestamp() AS updated_at
     FROM timesheet t
     LEFT JOIN employee e
         ON t.employee_id = e.employee_id

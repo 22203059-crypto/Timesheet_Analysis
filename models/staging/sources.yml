@@ -39,6 +39,15 @@ sources:
 
       - name: Transactions
 
+      - name: crm_users_raw
+
+      - name: clickstream_events_raw
+
+      - name: payments_raw
+
+      - name: payment_source_raw
+
+      
 
 
 

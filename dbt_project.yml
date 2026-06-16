@@ -23,15 +23,15 @@ models :
   timesheet_analysis:
     staging :
       +materialized: table
-      +schema: staging
+      +schema: capa_staging
     intermediate:
       +materialized: table
-      +schema: intermediate
+      +schema: capa_intermediate
     marts:
       +materialized: table
-      +schema: marts
+      +schema: capa_marts
     report:
       +materialized: table
-      +schema: report
+      +schema: capa_report
     
 
